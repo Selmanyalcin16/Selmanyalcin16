@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selman Yalçın</h1>
-<h3 align="center">I am a student at Istanbul Technical University's Computer & Informatıon Engineerin department.I have been dealing with coding since age of 12.I started programming with arduino and C but after 2 years ı have decided that embed systems coding is not for me and started to application development.During that 4 years I have developed many apps and sites.Nowadays ı'm continouning to app development and also learning Ml and Data Science.</h3>
+<h3 align="center">I am a student at Istanbul Technical University's Computer & Informatıon Systems Engineering department.I have been dealing with coding since age of 12.I started programming with arduino and C but after 2 years ı have decided that embed systems coding is not for me and started to application development.During that 4 years I have developed many apps and sites.Nowadays ı'm continouning to app development and also learning Ml and Data Science.</h3>
 
 <p align="left"> <a href="https://twitter.com/selmanyalcinn" target="blank"><img src="https://img.shields.io/twitter/follow/selmanyalcinn?logo=twitter&style=for-the-badge" alt="selmanyalcinn" /></a> </p>
 
